@@ -1,2 +1,2 @@
-FROM ilham2222/dataset:2
-CMD ["ok"]
+FROM ilham2222/jupytertaipi
+CMD ["start.sh"]
