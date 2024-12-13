@@ -1,3 +1,2 @@
-FROM ubuntu:22.04
-
+FROM ilham2222/dataset:2
 CMD ["ok"]
